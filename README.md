@@ -6,7 +6,7 @@
    </ul>
    <br><br>
 
-<img src="image.jpg" alt="This is an image" width="300" height="200">
+<img src="wt.png" alt="This is an image" width="300" height="200">
 
    
    <h1> what is the features of witty? </h1>
